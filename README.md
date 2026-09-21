@@ -1,5 +1,7 @@
 # 情緒森林島
 
+[DEMO 連結](https://simonallen0901.github.io/Island-of-the-Emotional-Forest/Island-of-the-Emotional-Forest.html)
+
 一個放在海上小島的生態瓶：點一顆台灣特有種的種子種進瓶子，選一種心情，看它在 10 秒內長大，再點開閱讀它的介紹。純前端 DEMO，React + Vite，本機 localhost 即可展示。
 
 ![畫面截圖](./screenshot.png)
